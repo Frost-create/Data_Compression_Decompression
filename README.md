@@ -1,2 +1,2 @@
 # Data_Compression_Decompression
-Compress common characters (space, e, t, n, r, o, a, i, s, d, l, h, c, f, p) into 1 nibble. Decompress characters back into human readable bytes. Utilizes a nibbler API. Done for classwork.
+This repository contains a C implementation of a Nibble-based Stream Abstract Data Type (ADT). It provides a clean, easy-to-use Application Programming Interface (API) to compress and decompress data by reading and writing 4-bit nibbles, abstracting away low-level bitwise operations and buffering. Done for classwork.
